@@ -1,6 +1,6 @@
 # LDaCCA Website Revamped
 A sneaky attempt to rewrite the site using a react based stack before
-anybody notices.
+anybody  notices.
 
 ## Getting Started
 First, install the dependencies with the `yarn` package manager.
