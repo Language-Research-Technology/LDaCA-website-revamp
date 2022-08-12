@@ -13,7 +13,7 @@ export default function Header() {
       <nav className="container flex h-full items-center justify-between text-gray-700">
         <Link href="/">
           <a>
-            <img src="/LDaCA_logo-sm.png" className="h-16" />
+            <img src="/logo.png" className="h-16" />
           </a>
         </Link>
 
