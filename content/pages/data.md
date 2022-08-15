@@ -16,10 +16,10 @@ Information about the approach to
 [metadata](https://en.wikipedia.org/wiki/Metadata) being taken by LDaCA.
 
 ### [Sample Collections](/collections)
-Information about the first datasets which have been ingested by LDaCA.
+Information about the first datasets which have been added to LDaCA.
 
 ### [Case Studies](/case-studies)
-Accounts by collectors of various kinds of langauge data illustrating the 
+Accounts by collectors of various kinds of language data illustrating the 
 different solutions they have adopted for the problems encountered in the 
 process.
 
