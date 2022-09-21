@@ -9,11 +9,11 @@ export default function Header() {
   const [showSidebar, setShowSidebar] = useState(false);
 
   return (
-    <div className="sticky top-0 h-20 bg-white shadow-sm md:static md:shadow-none">
+    <div className="sticky top-0 lg:h-36 bg-white shadow-sm md:static md:shadow-none">
       <nav className="container flex h-full items-center justify-between text-gray-700">
         <Link href="/">
           <a>
-            <img src="/logo.png" className="h-16" />
+            <img src="/logo.png" className="h-16 lg:h-28" />
           </a>
         </Link>
 
@@ -56,8 +56,8 @@ const links: MenuLink[] = [
     url: '/posts',
   },
   {
-    name: 'Language Data',
-    url: '/data',
+    name: 'Background',
+    url: '/background',
   },
   {
     name: 'Resources',

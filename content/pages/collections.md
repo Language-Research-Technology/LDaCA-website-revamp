@@ -11,4 +11,4 @@ LDaCA has begun ingesting data sets, including:
 
 We have also ingested a collection of government documents in various languages. This a very small dataset assembled to check that our technology can handle different languages and different scripts; more information about this work is available in [this presentation](https://ptsefton.com/2022/01/27/DAMTA_Slides_v1/index.html).
 
-Back to [Language Data](../data/)
+Back to [Background](../background/)
