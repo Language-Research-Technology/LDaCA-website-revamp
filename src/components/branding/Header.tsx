@@ -9,7 +9,7 @@ export default function Header() {
   const [showSidebar, setShowSidebar] = useState(false);
 
   return (
-    <div className="sticky top-0 lg:h-36 bg-white shadow-sm md:static md:shadow-none">
+    <div className="sticky top-0 bg-white·shadow-sm·md:static·md:shadow-none·lg:h-36">
       <nav className="container flex h-full items-center justify-between text-gray-700">
         <Link href="/">
           <a>
