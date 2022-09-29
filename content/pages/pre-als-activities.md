@@ -2,10 +2,8 @@
 title: "Pre-ALS Conference Activity Day"
 date: "2022-09-20T05:12:35+10:00"
 draft: false
-tags: ['ALS Conference']
-topics: ['Activities before the ALS Conference']
-author: "Simon Musgrave"
 ---
+
 ## Language Data Commons of Australia
 ## Australian Text Analytics Platform
 
