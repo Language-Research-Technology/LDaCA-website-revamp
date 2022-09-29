@@ -7,7 +7,7 @@ draft: false
 # Fieldwork in Papua New Guinea
 
 by Harriet Sheppard
-![Harriet on an outrigger boat off Vanatɨna](/HS-sailing-outrigger-small.JPG)
+![Harriet on an outrigger boat off Vanatɨna](/HS-sailing-outrigger-small.jpg)
 Harriet on an outrigger boat off Vanatɨna
 
 My fieldwork experience, in many ways, conforms to stereotypes of language 
@@ -50,7 +50,7 @@ levels.  It also has the advantage of being a more durable format compared
 with a paper consent form, particularly when working in a hot and humid 
 climate and it can also be easily backed up.
 
-![Transcription session with Abel Sam](/transcription-session-small.JPG)
+![Transcription session with Abel Sam](/transcription-session-small.jpg)
 Each time I made a recording with a speaker or speakers, I played the 
 recording back to them to check that they were happy with the recording and 
 so that they could decide on what sort of access conditions they wanted the 
@@ -70,7 +70,7 @@ just for speakers. They could also choose to have a text embargoed for a
 certain period of time.
 
 
-![Transcription session with Abel Sam](/elicitation-session-notes-small.JPG)
+![Transcription session with Abel Sam](/elicitation-session-notes-small.jpg)
 When I was preparing my ethics application for the university, I applied and 
 received ethics approval to work with minors. I didn’t plan to collect data 
 from children (although I did want the option of recording older teens if any 
@@ -145,7 +145,7 @@ used by linguists. Both text and EAF files are some of the standard file
 formats for transcriptions and annotations that are generally accepted by 
 language archives today. 
 
-![Setting up for a recording session](/recording-setup-small.JPG)
+![Setting up for a recording session](/recording-setup-small.jpg)
 When collecting metadata, I adopted the Component MetaData Infrastructure (
 CMDI) schema used by the archive where I was planning to deposit my data. The 
 logistics of fieldwork can be overwhelming at times and following the archive’
@@ -234,7 +234,7 @@ invested in a battery and solar panel for charging equipment and backing up
 data although I still had to cross rivers with crocodiles from time to time. 
 
 
-![Crossing the Veora river](/crossing-river-small.JPG) 
+![Crossing the Veora river](/crossing-river-small.jpg) 
 In order to secure the corpus of texts into the future and make sure that it 
 doesn’t get lost on an old hard drive, I have uploaded it to a language 
 archive. The archive is a digital repository tasked with safeguarding 
@@ -292,6 +292,6 @@ researchers. Best practices from a decade ago are not those of today and this
 is a good thing!
 
 
-![Vuwo village](/Vuwo.JPG)
+![Vuwo village](/Vuwo.jpg)
 
 Back to [Language Data](../data/)
