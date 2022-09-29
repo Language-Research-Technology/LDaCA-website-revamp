@@ -292,6 +292,6 @@ researchers. Best practices from a decade ago are not those of today and this
 is a good thing!
 
 
-![Vuwo village](/Vuwo.jpg)
+![Vuwo village](/Vuwo.JPG)
 
 Back to [Language Data](../data/)
