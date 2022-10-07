@@ -1,10 +1,11 @@
 ---
-title: "Pre-ALS Conference Activity Day"
-date: "2022-09-20T05:12:35+10:00"
+title: 'Pre-ALS Conference Activity Day'
+date: '2022-09-20T05:12:35+10:00'
 draft: false
 ---
 
 ## Language Data Commons of Australia
+
 ## Australian Text Analytics Platform
 
 ### Day of Activities before ALS2022 (Tuesday 29/11)
@@ -23,14 +24,15 @@ draft: false
 <tr><td>02:00 - 02:30</td><td>Auslan project update<br><i>Report on work by the team at Monash University</i>
 </td><td>Louisa Willoughby<br>Trevor Johnston</td></tr>
 <tr bgcolor = 'LightGray'><td>02:30 - 03:00</td><td>Break</td><td></td></tr>
-<tr><td>03:00 - 03:30</td><td>Sydney Informatics Hub demonstration<br><i>Report on tools developed by SIH</i>
-</td><td>Kelvin Lee</td></tr>
+<tr><td>03:00 - 03:30</td><td>Text analytics for corpus linguistics<br><i>Selected ATAP tools showcase</i>
+</td><td>Sydney Informatics Hub with Sydney Corpus Lab</td></tr>
 <tr><td>03:30 - 05:00</td><td>Discursis workshop<br><i>How to get started with this tool for tracking topics in conversations </td><td>Ben Foley<br>Sam Hames</td></tr></i>
 </table>
 
 The [Australian Text Analytics Platform](https://www.atap.edu.au/) and the [Language Data Commons of Australia](https://www.ldaca.edu.au/) are projects supported by the [Australian Research Data Commons](https://www.ardc.edu.au) to develop infrastructure for Australian researchers who work with language data. This day of activities organised by the projects will give ALS conference delegates (and anyone else who is interested) the opportunity to learn more about this work. The day will include:
- - an overview of the projects and the work to date
- - reports on specific sub-projects
+
+- an overview of the projects and the work to date
+- reports on specific sub-projects
 - introductory workshops on the tools and resources being developed
 - a workshop on using Discursis, a tool for tracking topics in interactive use of language
 - the opportunity to influence future work by exploring and providing feedback on the data interface which we are building.
@@ -39,10 +41,4 @@ The activities will be of interest to anyone who conducts research which include
 
 Catering is provided and therefore a registration fee is being charged for this event to partially cover the cost ($25 full rate and $15 discount).
 
-
 The Australian Text Analytics Platform and the Language Data Commons of Australia received investment from the Australian Research Data Commons (ARDC). The ARDC is funded by the National Collaborative Research Infrastructure Strategy (NCRIS).
-
-
-
-
-
