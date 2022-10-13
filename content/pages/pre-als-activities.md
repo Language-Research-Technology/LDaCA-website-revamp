@@ -41,4 +41,6 @@ The activities will be of interest to anyone who conducts research which include
 
 Catering is provided and therefore a registration fee is being charged for this event to partially cover the cost ($25 full rate and $15 discount).
 
+[Registration](https://als.asn.au/Conference/Conference2022/Workshops)
+
 The Australian Text Analytics Platform and the Language Data Commons of Australia received investment from the Australian Research Data Commons (ARDC). The ARDC is funded by the National Collaborative Research Infrastructure Strategy (NCRIS).
