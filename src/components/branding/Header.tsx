@@ -67,4 +67,8 @@ const links: MenuLink[] = [
     name: 'Organisation',
     url: '/organisation',
   },
+  {
+    name: 'Contact us',
+    url: '/contact',
+  },
 ];
