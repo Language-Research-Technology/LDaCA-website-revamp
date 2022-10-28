@@ -20,7 +20,7 @@ draft: false
 <tr><td>11:00 - 12:00</td><td>Introducing the LDaCA Portal<br><i>How will I find data in LDaCA? Your chance to tell us whether we are meeting your needs!</i></td><td>Peter Sefton<br>Kathrin Kaiser</td></tr>
 <tr bgcolor = 'LightGray'><td>12:00 - 01:00</td><td>Lunch</td><td></td></tr>
 <tr><td>01:00 - 02:00</td><td>Data and access<br><i>How is access to data managed in LDaCA and how can I access data?</i>
-</td><td>Peter Sefton<br>Kathrin Kaiser</td></tr>
+</td><td>Peter Sefton<br>Kathrin Kaiser<br>Catherine Travis</td></tr>
 <tr><td>02:00 - 02:30</td><td>Auslan project update<br><i>Report on work by the team at Monash University</i>
 </td><td>Louisa Willoughby<br>Trevor Johnston</td></tr>
 <tr bgcolor = 'LightGray'><td>02:30 - 03:00</td><td>Break</td><td></td></tr>
