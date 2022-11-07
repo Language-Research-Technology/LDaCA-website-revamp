@@ -4,6 +4,8 @@ date: 2022-11-07T17:13:28+10:00
 draft: false
 ---
 
+![LDaCA logo](/logo-dark.png)
+
 ### Otis Carmichael
 
 The design of the LDaCA logo came from my own experience researching the Waanyi language, the language of [my mob](https://en.wikipedia.org/wiki/Waanyi). The design flows from the beginning to the end, where it flows back into itself at the beginning, representing the cyclical nature of life and the Land. The strands of language interweave with themselves, influenced by everything that touches them until they become something entirely their own. The complexity of these languages is a thing of beauty and their preservation, study and proliferation lays claim to this unceded land. The inspiration of the design is as follows:
