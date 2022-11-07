@@ -16,7 +16,7 @@ draft: false
 </td><td>Sara King<br>Simon Musgrave</td></tr>
 <tr bgcolor = 'LightGray'><td>10:00 - 10:30</td><td>Break</td><td></td></tr>
 <tr><td>10:30 - 11:00</td><td>General progress report<br><i>An overview of the projects and of progress to date</i>
-</td><td>Michael Haugh<br>Simon Musgrave<br>Jenny Fewster (ARDC)</td></tr>
+</td><td>Michael Haugh<br>Robert McLellan<br>Simon Musgrave<br>Jenny Fewster (ARDC)</td></tr>
 <tr><td>11:00 - 12:00</td><td>Introducing the LDaCA Portal<br><i>How will I find data in LDaCA? Your chance to tell us whether we are meeting your needs!</i></td><td>Peter Sefton<br>Kathrin Kaiser</td></tr>
 <tr bgcolor = 'LightGray'><td>12:00 - 01:00</td><td>Lunch</td><td></td></tr>
 <tr><td>01:00 - 02:00</td><td>Data and access<br><i>How is access to data managed in LDaCA and how can I access data?</i>
@@ -25,7 +25,7 @@ draft: false
 </td><td>Louisa Willoughby<br>Trevor Johnston</td></tr>
 <tr bgcolor = 'LightGray'><td>02:30 - 03:00</td><td>Break</td><td></td></tr>
 <tr><td>03:00 - 03:30</td><td>Text analytics for corpus linguistics<br><i>Selected ATAP tools showcase</i>
-</td><td>Sydney Informatics Hub with Sydney Corpus Lab</td></tr>
+</td><td>Sydney Informatics Hub with Sydney Corpus Lab (Monika Bednarek)</td></tr>
 <tr><td>03:30 - 05:00</td><td>Discursis workshop<br><i>How to get started with this tool for tracking topics in conversations </td><td>Ben Foley<br>Sam Hames</td></tr></i>
 </table>
 
