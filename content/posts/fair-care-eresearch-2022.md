@@ -7,10 +7,13 @@
     author: Peter Sefton
 ---
 
-<a href="A CARE and FAIR-ready distributed access control system for human-created data using the Australian Access Federation and beyond.pdf">PDF version</a> | <a href=".pptx">Powerpoint Version</a>
+
+This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
+<a href="/fair-care-eresearch-2022/fair-care-eresearch-2022.pdf">Download as PDF</a>
 
 <section typeof='http://purl.org/ontology/bibo/Slide'>
-<img src='/fair-care-eresearch-2022/Slide00.png' alt='A CARE and FAIR-ready distributed access control system for human-created data using the Australian Access Federation and beyond Peter Sefton1, Jenny Fewster, Moises Sacal Bonequi, Cale Johnstone, Catherine Travis, River Tae Smith, Patrick Carnuccio  ' title='Slide: 0' border='1'  width='85%%'/>
+<img src='/fair-care-eresearch-2022/Slide00.png' title='Slide: 0' border='1'  width='85%%'/>
 
 This is write-up of a talk given at eResearch Australasia 2022, delivered by Peter Sefton, with some additional detail.
 
