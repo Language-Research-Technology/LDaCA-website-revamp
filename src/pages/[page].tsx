@@ -24,7 +24,7 @@ export const getStaticProps: GetStaticProps = async ({params}) => {
 };
 
 export const getStaticPaths: GetStaticPaths = async () => {
-  const pages = getAllPageSlugs(['home']);
+  const pages = getAllPageSlugs(['home']).filter(slug => slug !== 'contact');
 
   return {
     paths: pages.map(page => ({params: {page}})),
