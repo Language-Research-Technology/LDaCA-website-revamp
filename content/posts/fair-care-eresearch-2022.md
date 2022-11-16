@@ -212,11 +212,11 @@ There is a [nine minute silent video](https://youtu.be/xEWXiM-jUfY) of what this
 
 AAF is engaging with our project on the following:
 
-deploy a cloud-based authentication and authorisation infrastructure (AAI) to support the needs of the project
-understand and develop business process documentation for authorising access to data and services
-configure the AAI to support these business processes and to develop extensions to facilitate new functionality that may be required
-create a set of policies, standards and guidelines for managing researchers’ identity and access management
-develop support documentation, train community representatives to operate the platform, and provide support to the community managers.
+-  a cloud-based authentication and authorisation infrastructure (AAI) to support the needs of the project
+-  understand and develop business process documentation for authorising access to data and services
+-  configure the AAI to support these business processes and to develop extensions to facilitate new functionality that may be required
+-  create a set of policies, standards and guidelines for managing researchers’ identity and access management
+-  develop support documentation, train community representatives to operate the platform, and provide support to the community managers.
 The AAF has recommended CILogon & REMS as potential solutions to investigate & prototype
 
 CILogon is a federated identity management platform that provides the following features:
