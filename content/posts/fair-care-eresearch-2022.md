@@ -7,10 +7,13 @@
     author: Peter Sefton
 ---
 
-<a href="A CARE and FAIR-ready distributed access control system for human-created data using the Australian Access Federation and beyond.pdf">PDF version</a> | <a href=".pptx">Powerpoint Version</a>
+
+This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
+<a href="/fair-care-eresearch-2022/fair-care-eresearch-2022.pdf">Download as PDF</a>
 
 <section typeof='http://purl.org/ontology/bibo/Slide'>
-<img src='/fair-care-eresearch-2022/Slide00.png' alt='A CARE and FAIR-ready distributed access control system for human-created data using the Australian Access Federation and beyond Peter Sefton1, Jenny Fewster, Moises Sacal Bonequi, Cale Johnstone, Catherine Travis, River Tae Smith, Patrick Carnuccio  ' title='Slide: 0' border='1'  width='85%%'/>
+<img src='/fair-care-eresearch-2022/Slide00.png' title='Slide: 0' border='1'  width='85%%'/>
 
 This is write-up of a talk given at eResearch Australasia 2022, delivered by Peter Sefton, with some additional detail.
 
@@ -209,11 +212,11 @@ There is a [nine minute silent video](https://youtu.be/xEWXiM-jUfY) of what this
 
 AAF is engaging with our project on the following:
 
-deploy a cloud-based authentication and authorisation infrastructure (AAI) to support the needs of the project
-understand and develop business process documentation for authorising access to data and services
-configure the AAI to support these business processes and to develop extensions to facilitate new functionality that may be required
-create a set of policies, standards and guidelines for managing researchers’ identity and access management
-develop support documentation, train community representatives to operate the platform, and provide support to the community managers.
+-  a cloud-based authentication and authorisation infrastructure (AAI) to support the needs of the project
+-  understand and develop business process documentation for authorising access to data and services
+-  configure the AAI to support these business processes and to develop extensions to facilitate new functionality that may be required
+-  create a set of policies, standards and guidelines for managing researchers’ identity and access management
+-  develop support documentation, train community representatives to operate the platform, and provide support to the community managers.
 The AAF has recommended CILogon & REMS as potential solutions to investigate & prototype
 
 CILogon is a federated identity management platform that provides the following features:
