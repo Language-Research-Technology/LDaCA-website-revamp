@@ -25,7 +25,7 @@ draft: false
 </td><td>Louisa Willoughby<br>Trevor Johnston</td></tr>
 <tr bgcolor = 'LightGray'><td>02:30 - 03:00</td><td>Break</td><td></td></tr>
 <tr><td>03:00 - 03:30</td><td>Text analytics for corpus linguistics<br><i>Selected ATAP tools showcase</i>
-</td><td>Sydney Informatics Hub with Sydney Corpus Lab (Monika Bednarek)</td></tr>
+</td><td>Sydney Informatics Hub with Sydney Corpus Lab (Sony Jufri, Kelvin Lee)</td></tr>
 <tr><td>03:30 - 05:00</td><td>Discursis workshop<br><i>How to get started with this tool for tracking topics in conversations </td><td>Ben Foley<br>Sam Hames</td></tr></i>
 </table>
 
