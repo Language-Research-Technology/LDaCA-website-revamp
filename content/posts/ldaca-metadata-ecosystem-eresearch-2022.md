@@ -18,13 +18,13 @@ This work is licensed under CC BY 4.0. To view a copy of this license, visit htt
 
 This presentation will look at how a Metadata Standard - RO-Crate, with Metadata Profile (the Language Data Commons) is being developed and implemented. Two major collections are collaborating on the standard, PARADISEC and the Language Data Commons of Australia (LDaCA). This ongoing standardisation effort for language data is designed to improve interoperability, reduce costs for data migration and allow storage on disk, object storage or in archival repositories.
 
-[RO-Crate](https://www.researchobject.org/ro-crate/) is a linked-data metadata system which allows discovery metadata (Who, what where) based on the widely adopted Schema.org vocabulary to be seamlessly integrated with more discipline specific metadata. RO-Crate uses metadata profiles to provide guidance for packaging resources for particular disciplines and purposes.
+[RO-Crate] is a linked-data metadata system which allows discovery metadata (Who, what where) based on the widely adopted Schema.org vocabulary to be seamlessly integrated with more discipline specific metadata. RO-Crate uses metadata profiles to provide guidance for packaging resources for particular disciplines and purposes.
 
 In this presentation we will introduce a RO-Crate metadata profile for language data which extends the core RO-Crate standard with new vocabulary terms adapted from pre-linked-data discipline specific metadata efforts, particularly the Open Language Archives Community (OLAC) standards. The profile has English-language guidance on how to structure collections of resources in a repository with links between them, such that they can be indexed and displayed via APIs and search/browse portals. The profile is also implemented as a series of machine-readable profiles for the Describo Online metadata description system.
 
 We will demonstrate current ways of describing items in a variety of languages and modes (spoken, written and signed), from a large set of heterogeneous language resources held by PARADISEC and LDaCA. We will also show how to access them via API calls and a search portal, and how resources may be stored in simple storage systems using the Arkisto platform (a set of standards and principles).
 
-[RO-Crate](https://www.researchobject.org/ro-crate/)
+[RO-Crate]: https://www.researchobject.org/ro-crate/
 
 </section>
 
@@ -152,14 +152,14 @@ The dataset may contain any kind of data resource about anything, in any format 
 <section typeof='http://purl.org/ontology/bibo/Slide'>
 <img src='/ldaca-metadata-ecosystem-eresearch-2022/Slide14.png' alt=' ' title='Slide: 14' border='1'  width='85%%'/>
 
-The RO-Crate standard also strongly recommends that JSON metadata is supplemented with an HTML preview - here’s what that looks like for a PARADISEC item. This is a screenshot of an HTML view of a PARADISEC Item generated using [an HTML rendering tool for RO-Crate](https://github.com/UTS-eResearch/ro-crate-html-js). The important point here is that this is a _generic_ viewer that can understand any RO-Crate. It may not be glamorous but it could be included in an archive as a way to provide human-readable access in the absence of portals that are data specific (but cost money to build and maintain).
+The RO-Crate standard also strongly recommends that JSON metadata is supplemented with an HTML preview - above we show what that looks like for a PARADISEC item. This is a screenshot of an HTML view of a PARADISEC Item generated using [an HTML rendering tool for RO-Crate](https://github.com/UTS-eResearch/ro-crate-html-js). The important point here is that this is a _generic_ viewer that can understand any RO-Crate. It may not be glamorous but it could be included in an archive as a way to provide human-readable access in the absence of portals that are data specific (but cost money to build and maintain).
 
 </section>
 
 <section typeof='http://purl.org/ontology/bibo/Slide'>
 <img src='/ldaca-metadata-ecosystem-eresearch-2022/Slide15.png' alt=' https://mod.paradisec.org.au ' title='Slide: 15' border='1'  width='85%%'/>
 
-Here is the same page from the previous slide seen in a working model of an RO-Crate set exported from the current PARADISEC catalog, with a single page viewer using an elastic search. Media files in this model are playable, and text inside objects is searchable, not a function that is currently available in the PARADISEC catalog. The two pages shown here are generated directly from metadata that was stored in an RO-Crate in a storage system using PARADISEC specific, rather than generic code.
+Here is the same page from the previous slide seen in a working model of an RO-Crate set exported from the current PARADISEC catalog, with a single page viewer using an elastic search. The two pages shown here are generated directly from metadata that was stored in an RO-Crate in a storage system using PARADISEC specific, rather than generic code.
 
 </section>
 
@@ -235,7 +235,7 @@ This screenshot shows the Language Data Commons RO-Crate Profile in action. This
 
 In this case the description is of the collection object.
 
-[describo online]: /section
+[describo online]: https://github.com/Arkisto-Platform/describo-online
 
 <section typeof='http://purl.org/ontology/bibo/Slide'>
 <img src='/ldaca-metadata-ecosystem-eresearch-2022/Slide24.png' alt='LDaCA ' title='Slide: 24' border='1'  width='85%%'/>
