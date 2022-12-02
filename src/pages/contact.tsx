@@ -1,4 +1,5 @@
 import MarkdownArticle from 'components/MarkdownContent';
+import Title from 'components/Title';
 import markdownToHtml from 'lib/markdownToHTML';
 import {getPageContent} from 'lib/pageMarkdown';
 import {getSearchContent} from 'lib/searchContent';
@@ -15,6 +16,7 @@ export default function Home({content, searchContent}: Props) {
   useSearch(searchContent);
   return (
     <>
+      <Title pageTitle="Contact Us" />
       <MarkdownArticle content={content} />
       <div className="mt-8">
         <TwitterTimelineEmbed
