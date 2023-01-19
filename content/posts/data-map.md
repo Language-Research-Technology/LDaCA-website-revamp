@@ -9,6 +9,8 @@ author: 'Simon Musgrave'
 
 ## Language data in Australia - Mapping a conceptual landscape
 
+### Simon Musgrave
+
 The data which is being made accessible through the Language Data Commons of Australia will contribute to the task of documenting language use and language behaviour in Australia. But what does this include? We are aware of many data sources and, in the short term, the important questions are about priorities:
 
 - What will be immediately useful?
