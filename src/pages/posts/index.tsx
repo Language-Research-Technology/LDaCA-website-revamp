@@ -3,6 +3,7 @@ import Post from 'types/post';
 import PostSummary from 'components/PostSummary';
 import {getAllPosts} from 'lib/postMarkdown';
 import Prose from 'components/Prose';
+import Title from 'components/Title';
 
 type Props = {
   posts: Post[];
@@ -11,6 +12,7 @@ type Props = {
 export default function Posts({posts}: Props) {
   return (
     <div>
+      <Title pageTitle="Posts" />
       <Prose>
         <h1>Posts</h1>
       </Prose>
@@ -19,6 +21,7 @@ export default function Posts({posts}: Props) {
           .filter(post => !(post.draft ?? false))
           .map(post => (
             <PostSummary
+              key={post.title}
               title={post.title}
               author={post.author}
               date={post.date}
